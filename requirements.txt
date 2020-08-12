@@ -1,0 +1,6 @@
+wget
+cfscrape
+scapy
+colorama
+pysocks
+wget
