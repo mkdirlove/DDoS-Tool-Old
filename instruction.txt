@@ -1,6 +1,11 @@
 Any Problem?
 Email: anonprixorph@gmail.com
 
+Please Install Python if You are using Windows.
+1. python.org
+2. Download the Latest Version.
+3. Execute the Command given in the down side.👇
+
 [Windows & Linux]
 Computer Terminal :
 pip install pysocks
