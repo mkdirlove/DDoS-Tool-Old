@@ -1,0 +1,11 @@
+Any Problem?
+Email: anonprixorph@gmail.com
+
+[Windows & Linux]
+Computer Terminal :
+pip install pysocks
+pip install colorama
+pip install requests
+pip install wget
+pip install scapy
+pip install cfscrape
